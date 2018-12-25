@@ -6,6 +6,9 @@ FORMAT="%(uploader)s%(title)s.%(ext)s"
 
 # Dont forget - you got to be FREE
 
+mkdir download
+cd download
+
 # Coding in the Name of - (Rage Against the Machine Parody)
 youtube-dl --output $FORMAT -f '137+251'  https://www.youtube.com/watch?v=50Qs4gVHB_E&list=RDb0tsZB_LEQk&index=2
 
