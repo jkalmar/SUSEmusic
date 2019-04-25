@@ -38,3 +38,18 @@ youtube-dl --output $FORMAT -f '137+251' https://www.youtube.com/watch?v=SYRlTIS
 
 # What Does the Chameleon Say? (Ylvis - What Does the Fox Say parody)
 youtube-dl --output $FORMAT -f '137+251' https://www.youtube.com/watch?v=VNkDJk5_9eU&list=RDb0tsZB_LEQk&index=11
+
+# Walk Like A Chameleon - A SUSE Music Parody
+youtube-dl --output $FORMAT -f '137+140' https://www.youtube.com/watch?v=dDD2xd5sEiI
+
+# My Kind of Open Source
+youtube-dl --output $FORMAT -f '137+140' https://www.youtube.com/watch?v=escykW2mC5k
+
+# It's SUSE I Love
+youtube-dl --output $FORMAT -f '137+251' https://www.youtube.com/watch?v=YQTG4aLP4-0
+
+# It's SUSE and SAP
+youtube-dl --output $FORMAT -f '137+251' https://www.youtube.com/watch?v=h9E0CUfXgHE
+
+# The Time Has Come
+youtube-dl --output $FORMAT -f '137+251' https://www.youtube.com/watch?v=QrohEBlw2nw
